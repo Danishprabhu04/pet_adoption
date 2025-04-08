@@ -48,8 +48,6 @@ git clone https://github.com/your-username/pet-adoption-system.git
 cd pet-adoption-system
 ```
 
----
-
 ### 🔸 Step 2: Set Up Python Environment
 
 ```bash
